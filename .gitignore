@@ -1,0 +1,9 @@
+a/node_modules
+b/node_modules
+c/node_modules
+d/node_modules
+
+a/package-lock.json
+b/package-lock.json
+c/package-lock.json
+d/package-lock.json
